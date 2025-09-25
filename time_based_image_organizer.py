@@ -72,8 +72,8 @@ def relocate_images(source_directory, destination_directory):
 
 
 
-source = r"D:\Banco de occidente - Images to photogrammetry"
-destination = r"D:\Photogrammetry Flights"
+source = r"D:\path\to\your\source_images"
+destination = r"D:\path\to\your\organized_flights"
 
 relocate_images(source, destination)
 
